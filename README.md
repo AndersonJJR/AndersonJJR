@@ -5,7 +5,6 @@ Computer Science student passionate about Backend Development. Currently seeking
 
 ## What I'm Working On
 - Building robust Backend applications with **Java** and **Spring Boot**
-- Containerizing services using **Docker**
 - Designing and querying databases with **PostgreSQL** and **SQL**
 - Developing RESTful **APIs** and integrating external services
 - Academic projects: game development, and currency converters
@@ -15,7 +14,6 @@ Computer Science student passionate about Backend Development. Currently seeking
 Languages: Java, SQL, JavaScript
 Frameworks: Spring Boot, JPA/Hibernate
 Databases: PostgreSQL, MySQL
-Containers: Docker
 Tools: IntelliJ IDEA, DBeaver, Git, GitHub Actions
 Cloud: Google Cloud Platform (exploring)
 
@@ -37,7 +35,6 @@ Estudante de Ciência da Computação apaixonado por Desenvolvimento Backend. Bu
 
 ## No Que Estou Trabalhando
 - Construindo aplicações Backend robustas com **Java** e **Spring Boot**
-- Containerizando serviços usando **Docker**
 - Projetando e consultando bancos de dados com **PostgreSQL** e **SQL**
 - Desenvolvendo **APIs RESTful** e integrando serviços externos
 - Projetos acadêmicos: desenvolvimento de jogos e conversores de moeda
@@ -47,7 +44,6 @@ Estudante de Ciência da Computação apaixonado por Desenvolvimento Backend. Bu
 Linguagens: Java, SQL, JavaScript
 Frameworks: Spring Boot, JPA/Hibernate
 Bancos: PostgreSQL, MySQL
-Containers: Docker
 Ferramentas: IntelliJ IDEA, DBeaver, Git, GitHub Actions
 Cloud: Google Cloud Platform (em exploração)
 
